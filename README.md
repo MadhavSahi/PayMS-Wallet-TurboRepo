@@ -1,4 +1,4 @@
-# Turborepo Starter.
+# Turborepo Starter
 
 This is an official starter Turborepo.
 
